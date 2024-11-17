@@ -1,0 +1,24 @@
+{
+    "name": "supabase-php/supabase-storage",
+    "description": "Supabase storage for php client",
+    "type": "library",
+    "require-dev": {
+        "pestphp/pest": "^3.5",
+        "phpstan/phpstan": "guzzlehttp/guzzle",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SupabasePhp\\SupabaseStorage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sushil Kumar",
+            "email": "sushilkumbhar77@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
